@@ -1,7 +1,2591 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "孔子",
+          "description": "仁义礼/修身/教育",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207829225,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "kongzi-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "老子",
+          "description": "无为而治/道法自然/系统思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207874728,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "laozi-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "庄子",
+          "description": "逍遥游/齐物论/寓言哲学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207914010,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:47Z",
+            "owner": "nuwa-skills",
+            "repo": "zhuangzi-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "孙子",
+          "description": "兵法/战略思维/博弈论",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912977,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:32Z",
+            "owner": "nuwa-skills",
+            "repo": "sunzi-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王阳明",
+          "description": "知行合一/心学/决策哲学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207874640,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:40Z",
+            "owner": "nuwa-skills",
+            "repo": "wangyangming-skill",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "曾国藩",
+          "description": "自我管理/领导力/逆境突围",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207874692,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:43Z",
+            "owner": "nuwa-skills",
+            "repo": "zengguofan-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "韩非子",
+          "description": "法治/权术/制度设计",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910268,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:06Z",
+            "owner": "nuwa-skills",
+            "repo": "hanfeizi-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "墨子",
+          "description": "兼爱/非攻/工程思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911974,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:25Z",
+            "owner": "nuwa-skills",
+            "repo": "mozi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "荀子",
+          "description": "性恶论/礼法并重/教化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913825,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:42Z",
+            "owner": "nuwa-skills",
+            "repo": "xunzi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "朱熹",
+          "description": "理学/格物致知/读书法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207914126,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:47Z",
+            "owner": "nuwa-skills",
+            "repo": "zhuxi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "鬼谷子",
+          "description": "纵横术/说服术/博弈",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910219,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:05Z",
+            "owner": "nuwa-skills",
+            "repo": "guiguzi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "诸葛亮",
+          "description": "战略/谋略/治国",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207914062,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:45Z",
+            "owner": "nuwa-skills",
+            "repo": "zhugeliang-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "苏东坡",
+          "description": "豁达/文学/生活美学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912945,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:31Z",
+            "owner": "nuwa-skills",
+            "repo": "sudongpo-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王夫之",
+          "description": "实学/经世致用/唯物",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913548,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:38Z",
+            "owner": "nuwa-skills",
+            "repo": "wangfuzhi-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "中国哲学家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "苏格拉底",
+          "description": "提问术/批判性思维/认知谦逊",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207874784,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:30Z",
+            "owner": "nuwa-skills",
+            "repo": "socrates-skill",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "柏拉图",
+          "description": "理念论/哲学对话/理想国",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912461,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:29Z",
+            "owner": "nuwa-skills",
+            "repo": "plato-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "亚里士多德",
+          "description": "逻辑学/修辞学/伦理学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908904,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:46Z",
+            "owner": "nuwa-skills",
+            "repo": "aristotle-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "马可·奥勒留",
+          "description": "斯多葛/沉思录/自我修炼",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908956,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:46Z",
+            "owner": "nuwa-skills",
+            "repo": "aurelius-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "爱比克泰德",
+          "description": "斯多葛实践/自由/控制二分法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909846,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:01Z",
+            "owner": "nuwa-skills",
+            "repo": "epictetus-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "塞涅卡",
+          "description": "斯多葛/书信/时间管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912681,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:29Z",
+            "owner": "nuwa-skills",
+            "repo": "seneca-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "康德",
+          "description": "纯粹理性/道德律/批判哲学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910694,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:10Z",
+            "owner": "nuwa-skills",
+            "repo": "kant-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "尼采",
+          "description": "超人哲学/权力意志/价值重估",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912172,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:25Z",
+            "owner": "nuwa-skills",
+            "repo": "nietzsche-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "叔本华",
+          "description": "意志/悲观主义/审美解脱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207915636,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:31Z",
+            "owner": "nuwa-skills",
+            "repo": "schopenhauer-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "蒙田",
+          "description": "随笔/自我认知/怀疑精神",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911875,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:23Z",
+            "owner": "nuwa-skills",
+            "repo": "montaigne-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "维特根斯坦",
+          "description": "语言哲学/逻辑/沉默",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913721,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:42Z",
+            "owner": "nuwa-skills",
+            "repo": "wittgenstein-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "赫拉克利特",
+          "description": "万物流变/对立统一/逻各斯",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945140,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:05Z",
+            "owner": "nuwa-skills",
+            "repo": "heraclitus-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "福柯",
+          "description": "权力/知识/话语分析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207944993,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:02Z",
+            "owner": "nuwa-skills",
+            "repo": "foucault-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "汉娜·阿伦特",
+          "description": "平庸之恶/极权主义/政治判断力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945039,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "arendt-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "西蒙娜·德·波伏娃",
+          "description": "女性主义/存在主义/自由",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945087,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "beauvoir-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "西方哲学家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "费曼",
+          "description": "第一性原理学习/化繁为简/科学直觉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207875330,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:01Z",
+            "owner": "nuwa-skills",
+            "repo": "feynman-skill",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "爱因斯坦",
+          "description": "想象力/思维实验/相对论思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909751,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:58Z",
+            "owner": "nuwa-skills",
+            "repo": "einstein-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "达尔文",
+          "description": "进化论/观察/反确认偏误",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909535,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:53Z",
+            "owner": "nuwa-skills",
+            "repo": "darwin-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "牛顿",
+          "description": "第一性原理/数学思维/系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912122,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:27Z",
+            "owner": "nuwa-skills",
+            "repo": "newton-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "图灵",
+          "description": "计算思维/人工智能/密码学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913372,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:38Z",
+            "owner": "nuwa-skills",
+            "repo": "turing-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "居里夫人",
+          "description": "科学毅力/女性力量/专注",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909413,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:52Z",
+            "owner": "nuwa-skills",
+            "repo": "curie-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "特斯拉",
+          "description": "发明/想象力/交流电思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913120,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:33Z",
+            "owner": "nuwa-skills",
+            "repo": "tesla-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "香农",
+          "description": "信息论/化繁为简/创造性玩耍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912736,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:30Z",
+            "owner": "nuwa-skills",
+            "repo": "shannon-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "冯·诺依曼",
+          "description": "博弈论/计算架构/跨学科",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913416,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:36Z",
+            "owner": "nuwa-skills",
+            "repo": "vonneumann-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "哥白尼",
+          "description": "范式革命/勇气/观察",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909371,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:52Z",
+            "owner": "nuwa-skills",
+            "repo": "copernicus-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "法拉第",
+          "description": "实验精神/自学成才/直觉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909898,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:59Z",
+            "owner": "nuwa-skills",
+            "repo": "faraday-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "达芬奇",
+          "description": "跨学科创造力/观察方法/好奇心驱动",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207874829,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:54Z",
+            "owner": "nuwa-skills",
+            "repo": "davinci-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "钱学森",
+          "description": "系统工程/跨学科/航天精神",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945186,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:27Z",
+            "owner": "nuwa-skills",
+            "repo": "qianxuesen-skill",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "高德纳",
+          "description": "计算机科学之美/极致严谨/文学化编程",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945242,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "knuth-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "卡尔·萨根",
+          "description": "科学传播/宇宙视角/怀疑精神",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945293,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:31Z",
+            "owner": "nuwa-skills",
+            "repo": "sagan-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "杨振宁",
+          "description": "物理之美/科学品味/对称性",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945835,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:41Z",
+            "owner": "nuwa-skills",
+            "repo": "yangzhenning-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "科学家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "德鲁克",
+          "description": "管理学/知识工作者/目标管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909706,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:57Z",
+            "owner": "nuwa-skills",
+            "repo": "drucker-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "贝佐斯",
+          "description": "长期主义/客户至上/Day1思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909043,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "bezos-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "山姆·沃尔顿",
+          "description": "零售/节约/规模效应",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913447,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:37Z",
+            "owner": "nuwa-skills",
+            "repo": "walton-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "安迪·格鲁夫",
+          "description": "偏执狂/战略转折点/OKR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910184,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:05Z",
+            "owner": "nuwa-skills",
+            "repo": "grove-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "松下幸之助",
+          "description": "经营之神/自来水哲学/培养人",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911611,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:21Z",
+            "owner": "nuwa-skills",
+            "repo": "matsushita-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "亨利·福特",
+          "description": "流水线/规模化/工资革命",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909969,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:02Z",
+            "owner": "nuwa-skills",
+            "repo": "ford-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "杰克·韦尔奇",
+          "description": "数一数二/活力曲线/变革",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913664,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:41Z",
+            "owner": "nuwa-skills",
+            "repo": "welch-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "稻盛和夫",
+          "description": "经营哲学/利他主义/阿米巴管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207875198,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:09Z",
+            "owner": "nuwa-skills",
+            "repo": "inamori-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "铃木敏文",
+          "description": "7-Eleven/单品管理/假设验证",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207944817,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:36Z",
+            "owner": "nuwa-skills",
+            "repo": "suzukitoshifumi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "詹姆斯·韦伯",
+          "description": "NASA管理/阿波罗计划/科学行政",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945335,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:39Z",
+            "owner": "nuwa-skills",
+            "repo": "webb-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "商业领袖"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "任正非",
+          "description": "灰度管理/狼性/自我批判",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912567,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:29Z",
+            "owner": "nuwa-skills",
+            "repo": "renzhengfei-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "张一鸣",
+          "description": "延迟满足/算法思维/全球化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913963,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:46Z",
+            "owner": "nuwa-skills",
+            "repo": "zhangyiming-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "雷军",
+          "description": "极致性价比/风口论/互联网思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910978,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:16Z",
+            "owner": "nuwa-skills",
+            "repo": "leijun-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "马云",
+          "description": "愿景驱动/生态系统/让天下没有难做的生意",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911647,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:20Z",
+            "owner": "nuwa-skills",
+            "repo": "mayun-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "马化腾",
+          "description": "产品思维/社交连接/小步快跑",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911458,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:21Z",
+            "owner": "nuwa-skills",
+            "repo": "mahuateng-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "黄峥",
+          "description": "本分/消费洞察/普惠",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207915549,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:08Z",
+            "owner": "nuwa-skills",
+            "repo": "huangzheng-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王兴",
+          "description": "无边界/后发制人/长期主义",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207915681,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:41Z",
+            "owner": "nuwa-skills",
+            "repo": "wangxing-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "刘强东",
+          "description": "重资产/执行力/正道成功",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207920532,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:18Z",
+            "owner": "nuwa-skills",
+            "repo": "liuqiangdong-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "曹德旺",
+          "description": "实业报国/专注/玻璃大王",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909169,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:52Z",
+            "owner": "nuwa-skills",
+            "repo": "caodewang-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "董明珠",
+          "description": "铁娘子/品质执念/自主创新",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909660,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:57Z",
+            "owner": "nuwa-skills",
+            "repo": "dongmingzhu-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "俞敏洪",
+          "description": "教育创业/逆境重生/从绝望中寻找希望",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913863,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:45Z",
+            "owner": "nuwa-skills",
+            "repo": "yuminhong-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王传福",
+          "description": "工程师精神/垂直整合/技术为王",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913506,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:37Z",
+            "owner": "nuwa-skills",
+            "repo": "wangchuanfu-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "段永平",
+          "description": "本分/价值投资/做对的事",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207915492,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:58Z",
+            "owner": "nuwa-skills",
+            "repo": "duanyongping-skill",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "张小龙",
+          "description": "极简产品/克制/用完即走",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913907,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:45Z",
+            "owner": "nuwa-skills",
+            "repo": "zhangxiaolong-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "宗庆后",
+          "description": "渠道为王/朴素经营/一线调研",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207914174,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:45Z",
+            "owner": "nuwa-skills",
+            "repo": "zongqinghou-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "李彦宏",
+          "description": "技术信仰/搜索/AI转型",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911264,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:16Z",
+            "owner": "nuwa-skills",
+            "repo": "liyanhong-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "丁磊",
+          "description": "产品品味/慢公司/不跟风",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909632,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:57Z",
+            "owner": "nuwa-skills",
+            "repo": "dinglei-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "周鸿祎",
+          "description": "安全/红衣教主/颠覆式创新",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207915710,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:47Z",
+            "owner": "nuwa-skills",
+            "repo": "zhouhongyi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "刘永好",
+          "description": "农业帝国/家族传承/顺势而为",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911212,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:45Z",
+            "owner": "nuwa-skills",
+            "repo": "liuyonghao-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王健林",
+          "description": "敢想敢做/执行力/目标管理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913583,
+            "language": null,
+            "last_commit": "2026-07-25T00:39:45Z",
+            "owner": "nuwa-skills",
+            "repo": "wangjianlin-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "梁建章",
+          "description": "人口经济学/二次创业/跨界思考",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911027,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:43Z",
+            "owner": "nuwa-skills",
+            "repo": "liangjianzhang-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "史玉柱",
+          "description": "营销鬼才/东山再起/人性洞察",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912777,
+            "language": null,
+            "last_commit": "2026-07-25T00:39:29Z",
+            "owner": "nuwa-skills",
+            "repo": "shiyuzhu-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "李书福",
+          "description": "草根造车/全球并购/敢想敢干",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207915591,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:44Z",
+            "owner": "nuwa-skills",
+            "repo": "lishufu-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "黄仁勋",
+          "description": "算力革命/加速计算/长期押注",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910485,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:08Z",
+            "owner": "nuwa-skills",
+            "repo": "huangrenxun-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "张雪",
+          "description": "摩托车制造/草根创业/中国制造",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207851329,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:43Z",
+            "owner": "nuwa-skills",
+            "repo": "zhangxue-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "冯唐",
+          "description": "管理/文学/审美/成事",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207864590,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:01Z",
+            "owner": "nuwa-skills",
+            "repo": "fengtang-skill",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "当代中国企业家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "巴菲特",
+          "description": "价值投资/长期主义/护城河思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207875287,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:52Z",
+            "owner": "nuwa-skills",
+            "repo": "buffett-skill",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "达利欧",
+          "description": "原则/极度透明/算法决策",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909470,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:54Z",
+            "owner": "nuwa-skills",
+            "repo": "dalio-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "索罗斯",
+          "description": "反身性/金融哲学/开放社会",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912844,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:33Z",
+            "owner": "nuwa-skills",
+            "repo": "soros-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "彼得·林奇",
+          "description": "生活选股/十倍股/业余优势",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911344,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:20Z",
+            "owner": "nuwa-skills",
+            "repo": "lynch-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "霍华德·马克斯",
+          "description": "周期/第二层思维/风险",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911560,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:22Z",
+            "owner": "nuwa-skills",
+            "repo": "marks-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "约翰·博格",
+          "description": "指数基金/低成本/长期持有",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909082,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "bogle-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "彼得·蒂尔",
+          "description": "从0到1/垄断/逆向思考",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913212,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:34Z",
+            "owner": "nuwa-skills",
+            "repo": "thiel-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "本杰明·格雷厄姆",
+          "description": "价值投资之父/安全边际/市场先生",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910135,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:06Z",
+            "owner": "nuwa-skills",
+            "repo": "grahamben-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "芒格",
+          "description": "投资/认知偏误/逆向思考",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201946711,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:06Z",
+            "owner": "alchaincyf",
+            "repo": "munger-skill",
+            "stars": 346
+          }
+        }
+      ],
+      "title": "投资大师"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "保罗·格雷厄姆",
+          "description": "创业/黑客精神/写作",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912319,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:28Z",
+            "owner": "nuwa-skills",
+            "repo": "pggraham-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "凯文·凯利",
+          "description": "未来趋势/失控/必然",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910738,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "kevinkelly-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "林纳斯·托瓦兹",
+          "description": "开源/工程美学/务实",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913317,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:38Z",
+            "owner": "nuwa-skills",
+            "repo": "torvalds-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "吴军",
+          "description": "文明之光/信息论思维/格局/见识",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913778,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:40Z",
+            "owner": "nuwa-skills",
+            "repo": "wujun-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "乔布斯",
+          "description": "产品/设计/战略",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201942857,
+            "language": null,
+            "last_commit": "2026-05-27T16:12:57Z",
+            "owner": "alchaincyf",
+            "repo": "steve-jobs-skill",
+            "stars": 931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "马斯克",
+          "description": "工程/成本/第一性原理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201946778,
+            "language": null,
+            "last_commit": "2026-05-28T00:07:36Z",
+            "owner": "alchaincyf",
+            "repo": "elon-musk-skill",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "山姆·奥特曼",
+          "description": "AI时代创业/指数思维/技术乐观主义",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207944869,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "altman-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "里德·霍夫曼",
+          "description": "闪电式扩张/人脉网络/联盟思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207944915,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:09Z",
+            "owner": "nuwa-skills",
+            "repo": "hoffman-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "本·霍洛维茨",
+          "description": "创业维艰/战时CEO/企业文化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207944963,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:08Z",
+            "owner": "nuwa-skills",
+            "repo": "horowitz-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "大前研一",
+          "description": "战略思维/无国界经济/问题解决法",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945921,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:25Z",
+            "owner": "nuwa-skills",
+            "repo": "ohmae-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "科技与创新"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "鲁迅",
+          "description": "批判/国民性/杂文",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911295,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:19Z",
+            "owner": "nuwa-skills",
+            "repo": "luxun-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "胡适",
+          "description": "实验主义/自由主义/白话文",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910531,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:10Z",
+            "owner": "nuwa-skills",
+            "repo": "hushi-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "王小波",
+          "description": "自由/理性/黑色幽默",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913619,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:40Z",
+            "owner": "nuwa-skills",
+            "repo": "wangxiaobo-skill",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "林语堂",
+          "description": "生活艺术/中西文化/幽默",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911160,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:18Z",
+            "owner": "nuwa-skills",
+            "repo": "linyutang-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "钱钟书",
+          "description": "博学/讽刺/学术",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912515,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:27Z",
+            "owner": "nuwa-skills",
+            "repo": "qianzhongshu-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "中国文学家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "海明威",
+          "description": "简洁/冰山理论/勇气",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910446,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:06Z",
+            "owner": "nuwa-skills",
+            "repo": "hemingway-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "村上春树",
+          "description": "纪律/长跑/孤独创作",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912018,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:23Z",
+            "owner": "nuwa-skills",
+            "repo": "murakami-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "奥威尔",
+          "description": "政治写作/清晰/真相",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912216,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:28Z",
+            "owner": "nuwa-skills",
+            "repo": "orwell-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "托尔斯泰",
+          "description": "人性/道德/史诗叙事",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913276,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:35Z",
+            "owner": "nuwa-skills",
+            "repo": "tolstoy-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "斯蒂芬·金",
+          "description": "写作/纪律/恐惧",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912899,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:31Z",
+            "owner": "nuwa-skills",
+            "repo": "stephenking-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "卡夫卡",
+          "description": "荒诞/异化/现代性焦虑",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945598,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:12Z",
+            "owner": "nuwa-skills",
+            "repo": "kafka-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "博尔赫斯",
+          "description": "想象力/无限/迷宫思维",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945641,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "borges-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "太宰治",
+          "description": "人间失格/边缘人视角/自我解剖",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945692,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:57Z",
+            "owner": "nuwa-skills",
+            "repo": "dazai-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "罗伯特·麦基",
+          "description": "故事结构/编剧方法论/叙事原理",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945740,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:21Z",
+            "owner": "nuwa-skills",
+            "repo": "mckee-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "西方作家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "荣格",
+          "description": "集体无意识/原型/个体化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910586,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:09Z",
+            "owner": "nuwa-skills",
+            "repo": "jung-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "弗兰克尔",
+          "description": "意义疗法/苦难/选择",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910007,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:03Z",
+            "owner": "nuwa-skills",
+            "repo": "frankl-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "阿德勒",
+          "description": "自卑与超越/社会兴趣/勇气",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908744,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:46Z",
+            "owner": "nuwa-skills",
+            "repo": "adler-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "卡尼曼",
+          "description": "系统1vs2/认知偏误/前景理论",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910637,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:10Z",
+            "owner": "nuwa-skills",
+            "repo": "kahneman-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "契克森米哈赖",
+          "description": "心流/最优体验/内在动机",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911691,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:23Z",
+            "owner": "nuwa-skills",
+            "repo": "mihaly-skill",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "心理学家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "丘吉尔",
+          "description": "领导力/演讲/逆境",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909217,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:53Z",
+            "owner": "nuwa-skills",
+            "repo": "churchill-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "林肯",
+          "description": "领导力/统一/道德勇气",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911107,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:16Z",
+            "owner": "nuwa-skills",
+            "repo": "lincoln-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "甘地",
+          "description": "非暴力/自律/精神力量",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910055,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:01Z",
+            "owner": "nuwa-skills",
+            "repo": "gandhi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "曼德拉",
+          "description": "和解/坚韧/宽恕",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911512,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:21Z",
+            "owner": "nuwa-skills",
+            "repo": "mandela-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "李光耀",
+          "description": "治国/实用主义/制度设计",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911072,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:18Z",
+            "owner": "nuwa-skills",
+            "repo": "liguangyao-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "富兰克林",
+          "description": "自我修炼/实用主义/习惯系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207875143,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:01Z",
+            "owner": "nuwa-skills",
+            "repo": "franklin-skill",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "政治领袖"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "拿破仑",
+          "description": "军事/战略/执行力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912074,
+            "language": null,
+            "last_commit": "2026-07-25T00:39:16Z",
+            "owner": "nuwa-skills",
+            "repo": "napoleon-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "克劳塞维茨",
+          "description": "战争论/摩擦/战争迷雾",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909276,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:54Z",
+            "owner": "nuwa-skills",
+            "repo": "clausewitz-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "马基雅维利",
+          "description": "权力/现实主义/君主论",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911401,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:51Z",
+            "owner": "nuwa-skills",
+            "repo": "machiavelli-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "李小龙",
+          "description": "截拳道哲学/自我突破/去除冗余",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207875254,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:50Z",
+            "owner": "nuwa-skills",
+            "repo": "brucelee-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "曹操",
+          "description": "用人之道/权谋/乱世决策",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945403,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:50Z",
+            "owner": "nuwa-skills",
+            "repo": "caocao-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "刘邦",
+          "description": "草根逆袭/驭人术/知人善任",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945448,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:18Z",
+            "owner": "nuwa-skills",
+            "repo": "liubang-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "张居正",
+          "description": "改革/执行力/制度设计",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945489,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:43Z",
+            "owner": "nuwa-skills",
+            "repo": "zhangjuzheng-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "俾斯麦",
+          "description": "铁血政策/现实政治/统一战略",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945548,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:50Z",
+            "owner": "nuwa-skills",
+            "repo": "bismarck-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "军事与战略"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "宫崎骏",
+          "description": "动画/自然/想象力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911787,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:56Z",
+            "owner": "nuwa-skills",
+            "repo": "miyazaki-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "贝多芬",
+          "description": "苦难/创造力/超越",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908990,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:48Z",
+            "owner": "nuwa-skills",
+            "repo": "beethoven-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "安藤忠雄",
+          "description": "建筑/极简/自学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908843,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:46Z",
+            "owner": "nuwa-skills",
+            "repo": "ando-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "黑泽明",
+          "description": "电影/叙事/完美主义",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910938,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:15Z",
+            "owner": "nuwa-skills",
+            "repo": "kurosawa-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "毕加索",
+          "description": "创造力/风格变革/多产",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912430,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:27Z",
+            "owner": "nuwa-skills",
+            "repo": "picasso-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "铃木敏夫",
+          "description": "吉卜力制作人/商业与艺术平衡",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945786,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:36Z",
+            "owner": "nuwa-skills",
+            "repo": "suzukitoshio-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "艺术与设计"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "迈克尔·乔丹",
+          "description": "竞争/极致/心理韧性",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911837,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:25Z",
+            "owner": "nuwa-skills",
+            "repo": "mjordan-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "科比",
+          "description": "曼巴精神/专注/训练",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910843,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:11Z",
+            "owner": "nuwa-skills",
+            "repo": "kobe-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "菲尔·杰克逊",
+          "description": "禅师/团队/领导力",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912367,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:27Z",
+            "owner": "nuwa-skills",
+            "repo": "philjackson-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "体育"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "蒙特梭利",
+          "description": "儿童教育/自主学习/环境设计",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911920,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:23Z",
+            "owner": "nuwa-skills",
+            "repo": "montessori-skill",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "杜威",
+          "description": "实用主义教育/做中学/民主",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909575,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:57Z",
+            "owner": "nuwa-skills",
+            "repo": "dewey-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "陶行知",
+          "description": "生活教育/教学做合一/乡村",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913058,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:36Z",
+            "owner": "nuwa-skills",
+            "repo": "taoxingzhi-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "张雪峰",
+          "description": "教育/职业规划/阶层流动",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201947430,
+            "language": null,
+            "last_commit": "2026-05-28T00:10:21Z",
+            "owner": "alchaincyf",
+            "repo": "zhangxuefeng-skill",
+            "stars": 10186
+          }
+        }
+      ],
+      "title": "教育"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "亚当·斯密",
+          "description": "国富论/看不见的手/分工",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908697,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:46Z",
+            "owner": "nuwa-skills",
+            "repo": "adamsmith-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "凯恩斯",
+          "description": "宏观经济/政府干预/动物精神",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910790,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "keynes-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "哈耶克",
+          "description": "自由市场/自发秩序/知识论",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910394,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:04Z",
+            "owner": "nuwa-skills",
+            "repo": "hayek-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "熊彼特",
+          "description": "创造性破坏/企业家精神/创新",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912629,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:31Z",
+            "owner": "nuwa-skills",
+            "repo": "schumpeter-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "米塞斯",
+          "description": "人的行为/奥地利学派/逻辑",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207911737,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:25Z",
+            "owner": "nuwa-skills",
+            "repo": "mises-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "经济学家"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "铃木俊隆",
+          "description": "禅者的初心/当下/空杯",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913025,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:34Z",
+            "owner": "nuwa-skills",
+            "repo": "suzuki-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "克里希那穆提",
+          "description": "自由/观察/不从众",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910900,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:14Z",
+            "owner": "nuwa-skills",
+            "repo": "krishnamurti-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "一行禅师",
+          "description": "正念/当下/和平",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207913166,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:34Z",
+            "owner": "nuwa-skills",
+            "repo": "thichnhathanh-skill",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "约瑟夫·坎贝尔",
+          "description": "英雄之旅/神话/人生意义",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909130,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:50Z",
+            "owner": "nuwa-skills",
+            "repo": "campbell-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "爱默生",
+          "description": "自立/超验主义/自然",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909796,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:57Z",
+            "owner": "nuwa-skills",
+            "repo": "emerson-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "艾伦·沃茨",
+          "description": "东西方哲学/禅/觉醒",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207908791,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:46Z",
+            "owner": "nuwa-skills",
+            "repo": "alanwatts-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "精神与智慧"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "赫拉利",
+          "description": "人类简史/未来/认知革命",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910336,
+            "language": null,
+            "last_commit": "2026-07-25T01:07:06Z",
+            "owner": "nuwa-skills",
+            "repo": "harari-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "乔丹·彼得森",
+          "description": "秩序/混沌/责任",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207912255,
+            "language": null,
+            "last_commit": "2026-07-25T00:39:18Z",
+            "owner": "nuwa-skills",
+            "repo": "peterson-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "蒂姆·费里斯",
+          "description": "生活黑客/4小时/最优化",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909937,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:03Z",
+            "owner": "nuwa-skills",
+            "repo": "ferriss-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "詹姆斯·克利尔",
+          "description": "原子习惯/系统/复利",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207909330,
+            "language": null,
+            "last_commit": "2026-07-25T00:37:47Z",
+            "owner": "nuwa-skills",
+            "repo": "clear-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "格拉德威尔",
+          "description": "引爆点/异类/直觉",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207910102,
+            "language": null,
+            "last_commit": "2026-07-25T00:38:08Z",
+            "owner": "nuwa-skills",
+            "repo": "gladwell-skill",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "纳瓦尔",
+          "description": "财富/杠杆/人生哲学",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201946559,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:14Z",
+            "owner": "alchaincyf",
+            "repo": "naval-skill",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "塔勒布",
+          "description": "风险/反脆弱/不确定性",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1201952391,
+            "language": null,
+            "last_commit": "2026-05-28T00:08:44Z",
+            "owner": "alchaincyf",
+            "repo": "taleb-skill",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "查理·罗斯",
+          "description": "深度访谈/提问的艺术/倾听",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207945876,
+            "language": null,
+            "last_commit": "2026-07-25T01:06:50Z",
+            "owner": "nuwa-skills",
+            "repo": "charlierose-skill",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "当代思想者"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T19:51:17.955Z",
+    "last_updated": "2026-08-24T14:27:42.282Z",
     "original_repository": "nuwa-skills/awesome-nuwa",
     "original_repository_id": 1207908536,
     "original_repository_sha": "1bc395977d5c04427229d0dc58a4abd74aaa21e7",
