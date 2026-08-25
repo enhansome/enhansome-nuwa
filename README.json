@@ -75,7 +75,7 @@
             "last_commit": "2026-07-25T01:07:40Z",
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -1377,10 +1377,10 @@
             "archived": false,
             "id": 1201946711,
             "language": null,
-            "last_commit": "2026-05-28T00:08:06Z",
+            "last_commit": "2026-08-25T03:04:21Z",
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 346
+            "stars": 347
           }
         }
       ],
@@ -1458,10 +1458,10 @@
             "archived": false,
             "id": 1201942857,
             "language": null,
-            "last_commit": "2026-05-27T16:12:57Z",
+            "last_commit": "2026-08-25T03:05:14Z",
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 931
+            "stars": 932
           }
         },
         {
@@ -1473,10 +1473,10 @@
             "archived": false,
             "id": 1201946778,
             "language": null,
-            "last_commit": "2026-05-28T00:07:36Z",
+            "last_commit": "2026-08-25T03:04:57Z",
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 490
+            "stars": 493
           }
         },
         {
@@ -2271,10 +2271,10 @@
             "archived": false,
             "id": 1201947430,
             "language": null,
-            "last_commit": "2026-05-28T00:10:21Z",
+            "last_commit": "2026-08-25T03:03:20Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10187
+            "stars": 10188
           }
         }
       ],
@@ -2544,7 +2544,7 @@
             "archived": false,
             "id": 1201946559,
             "language": null,
-            "last_commit": "2026-05-28T00:08:14Z",
+            "last_commit": "2026-08-25T03:04:11Z",
             "owner": "alchaincyf",
             "repo": "naval-skill",
             "stars": 234
@@ -2559,7 +2559,7 @@
             "archived": false,
             "id": 1201952391,
             "language": null,
-            "last_commit": "2026-05-28T00:08:44Z",
+            "last_commit": "2026-08-25T03:03:45Z",
             "owner": "alchaincyf",
             "repo": "taleb-skill",
             "stars": 116
@@ -2585,7 +2585,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:58:47.634Z",
+    "last_updated": "2026-08-25T06:21:27.802Z",
     "original_repository": "nuwa-skills/awesome-nuwa",
     "original_repository_id": 1207908536,
     "original_repository_sha": "1bc395977d5c04427229d0dc58a4abd74aaa21e7",
