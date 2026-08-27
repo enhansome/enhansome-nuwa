@@ -1461,7 +1461,7 @@
             "last_commit": "2026-08-25T03:05:14Z",
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 935
+            "stars": 936
           }
         },
         {
@@ -2274,7 +2274,7 @@
             "last_commit": "2026-08-25T03:03:20Z",
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10196
+            "stars": 10200
           }
         }
       ],
@@ -2585,9 +2585,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T22:28:06.340Z",
-    "original_repository": "nuwa-skills/awesome-nuwa",
-    "original_repository_id": 1207908536,
+    "last_updated": "2026-08-27T11:55:33.067Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1207908536,
+      "language": "Ruby",
+      "last_commit": "2026-07-25T01:41:26Z",
+      "owner": "nuwa-skills",
+      "repo": "awesome-nuwa",
+      "stars": 331
+    },
     "original_repository_sha": "1bc395977d5c04427229d0dc58a4abd74aaa21e7",
     "enhanced_repository": "enhansome/enhansome-nuwa",
     "enhanced_repository_description": null,
