@@ -8,7 +8,7 @@
 [![Skills](https://img.shields.io/badge/Skills-159-blue)](#目录)
 [![Categories](https://img.shields.io/badge/Categories-18-green)](#目录)
 [![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill) ⭐ 31,603 | 🐛 5 | 🌐 Python | 📅 2026-08-25
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill) ⭐ 31,616 | 🐛 5 | 🌐 Python | 📅 2026-08-25
 
 每个 Skill 都是一个可安装的思维操作系统，不是语录合集。<br>
 安装后可在支持 Agent Skills 的 AI 助手中，以该人物的视角分析问题、审视决策、提供反馈。
@@ -339,7 +339,7 @@ npx skills add alchaincyf/nuwa-skill
 
 MIT License
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 31,603 | 🐛 5 | 🌐 Python | 📅 2026-08-25
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 31,616 | 🐛 5 | 🌐 Python | 📅 2026-08-25
 
 </div>
 
