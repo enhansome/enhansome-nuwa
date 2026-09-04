@@ -1918,7 +1918,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 357,
+            "stars": 358,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2029,7 +2029,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 942,
+            "stars": 944,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2050,7 +2050,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 501,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2662,7 +2662,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liguangyao-skill",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3145,10 +3145,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-08-25T03:03:20Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10236,
+            "stars": 10244,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3575,7 +3575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:52:07.613Z",
+    "last_updated": "2026-09-04T21:46:09.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code",
@@ -3587,7 +3587,7 @@
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 351,
+      "stars": 352,
       "topics": [
         "agent-skills",
         "awesome-list",
