@@ -1834,7 +1834,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "marks-skill",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -1918,7 +1918,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 367,
+            "stars": 368,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2050,7 +2050,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 513,
+            "stars": 514,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3148,7 +3148,7 @@
             "open_issues": 23,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10300,
+            "stars": 10310,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3523,7 +3523,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "naval-skill",
-            "stars": 248,
+            "stars": 250,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3575,7 +3575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:24:26.455Z",
+    "last_updated": "2026-09-18T21:49:39.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code",
