@@ -892,7 +892,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "qianxuesen-skill",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -1918,7 +1918,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 378,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2029,7 +2029,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 955,
+            "stars": 956,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2050,7 +2050,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 533,
+            "stars": 534,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3148,7 +3148,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10408,
+            "stars": 10421,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3523,7 +3523,7 @@
             "open_issues": 3,
             "owner": "alchaincyf",
             "repo": "naval-skill",
-            "stars": 258,
+            "stars": 259,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3544,7 +3544,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "taleb-skill",
-            "stars": 125,
+            "stars": 126,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3575,7 +3575,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:46:35.137Z",
+    "last_updated": "2026-10-08T23:55:31.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code",
@@ -3587,7 +3587,7 @@
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 400,
+      "stars": 404,
       "topics": [
         "agent-skills",
         "awesome-list",
