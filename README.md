@@ -8,7 +8,7 @@
 [![Skills](https://img.shields.io/badge/Skills-159-blue)](#目录)
 [![Categories](https://img.shields.io/badge/Categories-18-green)](#目录)
 [![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill) ⭐ 34,693 | 🐛 21 | 🌐 Python | 📅 2026-10-15
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill) ⭐ 34,826 | 🐛 21 | 🌐 Python | 📅 2026-10-17
 
 每个 Skill 都是一个可安装的思维操作系统，不是语录合集。<br>
 安装后可在支持 Agent Skills 的 AI 助手中，以该人物的视角分析问题、审视决策、提供反馈。
@@ -159,11 +159,11 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | [李彦宏](https://github.com/nuwa-skills/liyanhong-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25      | 技术信仰/搜索/AI转型         | `npx skills add nuwa-skills/liyanhong-skill`      |
 | [丁磊](https://github.com/nuwa-skills/dinglei-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25         | 产品品味/慢公司/不跟风         | `npx skills add nuwa-skills/dinglei-skill`        |
 | [周鸿祎](https://github.com/nuwa-skills/zhouhongyi-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25     | 安全/红衣教主/颠覆式创新        | `npx skills add nuwa-skills/zhouhongyi-skill`     |
-| [刘永好](https://github.com/nuwa-skills/liuyonghao-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25     | 农业帝国/家族传承/顺势而为       | `npx skills add nuwa-skills/liuyonghao-skill`     |
-| [王健林](https://github.com/nuwa-skills/wangjianlin-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25    | 敢想敢做/执行力/目标管理        | `npx skills add nuwa-skills/wangjianlin-skill`    |
-| [梁建章](https://github.com/nuwa-skills/liangjianzhang-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25 | 人口经济学/二次创业/跨界思考      | `npx skills add nuwa-skills/liangjianzhang-skill` |
-| [史玉柱](https://github.com/nuwa-skills/shiyuzhu-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25       | 营销鬼才/东山再起/人性洞察       | `npx skills add nuwa-skills/shiyuzhu-skill`       |
-| [李书福](https://github.com/nuwa-skills/lishufu-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 草根造车/全球并购/敢想敢干       | `npx skills add nuwa-skills/lishufu-skill`        |
+| [刘永好](https://github.com/nuwa-skills/liuyonghao-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17     | 农业帝国/家族传承/顺势而为       | `npx skills add nuwa-skills/liuyonghao-skill`     |
+| [王健林](https://github.com/nuwa-skills/wangjianlin-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17    | 敢想敢做/执行力/目标管理        | `npx skills add nuwa-skills/wangjianlin-skill`    |
+| [梁建章](https://github.com/nuwa-skills/liangjianzhang-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17 | 人口经济学/二次创业/跨界思考      | `npx skills add nuwa-skills/liangjianzhang-skill` |
+| [史玉柱](https://github.com/nuwa-skills/shiyuzhu-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17       | 营销鬼才/东山再起/人性洞察       | `npx skills add nuwa-skills/shiyuzhu-skill`       |
+| [李书福](https://github.com/nuwa-skills/lishufu-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17        | 草根造车/全球并购/敢想敢干       | `npx skills add nuwa-skills/lishufu-skill`        |
 | [黄仁勋](https://github.com/nuwa-skills/huangrenxun-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25    | 算力革命/加速计算/长期押注       | `npx skills add nuwa-skills/huangrenxun-skill`    |
 | [张雪](https://github.com/nuwa-skills/zhangxue-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 摩托车制造/草根创业/中国制造      | `npx skills add nuwa-skills/zhangxue-skill`       |
 | [冯唐](https://github.com/nuwa-skills/fengtang-skill) ⭐ 3 \| 🐛 0 \| 📅 2026-07-25        | 管理/文学/审美/成事          | `npx skills add nuwa-skills/fengtang-skill`       |
@@ -180,7 +180,7 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | [约翰·博格](https://github.com/nuwa-skills/bogle-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 指数基金/低成本/长期持有    | `npx skills add nuwa-skills/bogle-skill`     |
 | [彼得·蒂尔](https://github.com/nuwa-skills/thiel-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 从0到1/垄断/逆向思考     | `npx skills add nuwa-skills/thiel-skill`     |
 | [本杰明·格雷厄姆](https://github.com/nuwa-skills/grahamben-skill) ⭐ 2 \| 🐛 0 \| 📅 2026-07-25 | 价值投资之父/安全边际/市场先生 | `npx skills add nuwa-skills/grahamben-skill` |
-| [芒格](https://github.com/alchaincyf/munger-skill) ⭐ 383 \| 🐛 3 \| 📅 2026-10-13         | 投资/认知偏误/逆向思考     | `npx skills add alchaincyf/munger-skill`     |
+| [芒格](https://github.com/alchaincyf/munger-skill) ⭐ 384 \| 🐛 3 \| 📅 2026-10-13         | 投资/认知偏误/逆向思考     | `npx skills add alchaincyf/munger-skill`     |
 
 ## 科技与创新
 
@@ -190,8 +190,8 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | [凯文·凯利](https://github.com/nuwa-skills/kevinkelly-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25 | 未来趋势/失控/必然         | `npx skills add nuwa-skills/kevinkelly-skill` |
 | [林纳斯·托瓦兹](https://github.com/nuwa-skills/torvalds-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25 | 开源/工程美学/务实         | `npx skills add nuwa-skills/torvalds-skill`   |
 | [吴军](https://github.com/nuwa-skills/wujun-skill) ⭐ 1 \| 🐛 0 \| 📅 2026-07-25         | 文明之光/信息论思维/格局/见识   | `npx skills add nuwa-skills/wujun-skill`      |
-| [乔布斯](https://github.com/alchaincyf/steve-jobs-skill) ⭐ 962 \| 🐛 4 \| 📅 2026-10-13  | 产品/设计/战略           | `npx skills add alchaincyf/steve-jobs-skill`  |
-| [马斯克](https://github.com/alchaincyf/elon-musk-skill) ⭐ 543 \| 🐛 1 \| 📅 2026-10-13   | 工程/成本/第一性原理        | `npx skills add alchaincyf/elon-musk-skill`   |
+| [乔布斯](https://github.com/alchaincyf/steve-jobs-skill) ⭐ 963 \| 🐛 4 \| 📅 2026-10-13  | 产品/设计/战略           | `npx skills add alchaincyf/steve-jobs-skill`  |
+| [马斯克](https://github.com/alchaincyf/elon-musk-skill) ⭐ 545 \| 🐛 1 \| 📅 2026-10-13   | 工程/成本/第一性原理        | `npx skills add alchaincyf/elon-musk-skill`   |
 | [山姆·奥特曼](https://github.com/nuwa-skills/altman-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25    | AI时代创业/指数思维/技术乐观主义 | `npx skills add nuwa-skills/altman-skill`     |
 | [里德·霍夫曼](https://github.com/nuwa-skills/hoffman-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25   | 闪电式扩张/人脉网络/联盟思维    | `npx skills add nuwa-skills/hoffman-skill`    |
 | [本·霍洛维茨](https://github.com/nuwa-skills/horowitz-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25  | 创业维艰/战时CEO/企业文化    | `npx skills add nuwa-skills/horowitz-skill`   |
@@ -246,9 +246,9 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 
 | 人物                                                                                     | 领域              | 安装                                              |
 | -------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------- |
-| [拿破仑](https://github.com/nuwa-skills/napoleon-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25      | 军事/战略/执行力       | `npx skills add nuwa-skills/napoleon-skill`     |
+| [拿破仑](https://github.com/nuwa-skills/napoleon-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17      | 军事/战略/执行力       | `npx skills add nuwa-skills/napoleon-skill`     |
 | [克劳塞维茨](https://github.com/nuwa-skills/clausewitz-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25  | 战争论/摩擦/战争迷雾     | `npx skills add nuwa-skills/clausewitz-skill`   |
-| [马基雅维利](https://github.com/nuwa-skills/machiavelli-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25 | 权力/现实主义/君主论     | `npx skills add nuwa-skills/machiavelli-skill`  |
+| [马基雅维利](https://github.com/nuwa-skills/machiavelli-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17 | 权力/现实主义/君主论     | `npx skills add nuwa-skills/machiavelli-skill`  |
 | [李小龙](https://github.com/nuwa-skills/brucelee-skill) ⭐ 2 \| 🐛 0 \| 📅 2026-07-25      | 截拳道哲学/自我突破/去除冗余 | `npx skills add nuwa-skills/brucelee-skill`     |
 | [曹操](https://github.com/nuwa-skills/caocao-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25         | 用人之道/权谋/乱世决策    | `npx skills add nuwa-skills/caocao-skill`       |
 | [刘邦](https://github.com/nuwa-skills/liubang-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 草根逆袭/驭人术/知人善任   | `npx skills add nuwa-skills/liubang-skill`      |
@@ -259,7 +259,7 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 
 | 人物                                                                                     | 领域             | 安装                                              |
 | -------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------- |
-| [宫崎骏](https://github.com/nuwa-skills/miyazaki-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25      | 动画/自然/想象力      | `npx skills add nuwa-skills/miyazaki-skill`     |
+| [宫崎骏](https://github.com/nuwa-skills/miyazaki-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17      | 动画/自然/想象力      | `npx skills add nuwa-skills/miyazaki-skill`     |
 | [贝多芬](https://github.com/nuwa-skills/beethoven-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25     | 苦难/创造力/超越      | `npx skills add nuwa-skills/beethoven-skill`    |
 | [安藤忠雄](https://github.com/nuwa-skills/ando-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25         | 建筑/极简/自学       | `npx skills add nuwa-skills/ando-skill`         |
 | [黑泽明](https://github.com/nuwa-skills/kurosawa-skill) ⭐ 1 \| 🐛 0 \| 📅 2026-07-25      | 电影/叙事/完美主义     | `npx skills add nuwa-skills/kurosawa-skill`     |
@@ -281,7 +281,7 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | [蒙特梭利](https://github.com/nuwa-skills/montessori-skill) ⭐ 2 \| 🐛 0 \| 📅 2026-07-25       | 儿童教育/自主学习/环境设计 | `npx skills add nuwa-skills/montessori-skill`  |
 | [杜威](https://github.com/nuwa-skills/dewey-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25              | 实用主义教育/做中学/民主  | `npx skills add nuwa-skills/dewey-skill`       |
 | [陶行知](https://github.com/nuwa-skills/taoxingzhi-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 生活教育/教学做合一/乡村  | `npx skills add nuwa-skills/taoxingzhi-skill`  |
-| [张雪峰](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,516 \| 🐛 26 \| 📅 2026-10-13 | 教育/职业规划/阶层流动   | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| [张雪峰](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,523 \| 🐛 26 \| 📅 2026-10-13 | 教育/职业规划/阶层流动   | `npx skills add alchaincyf/zhangxuefeng-skill` |
 
 ## 经济学家
 
@@ -309,10 +309,10 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | 人物                                                                                     | 领域            | 安装                                             |
 | -------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------- |
 | [赫拉利](https://github.com/nuwa-skills/harari-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25        | 人类简史/未来/认知革命  | `npx skills add nuwa-skills/harari-skill`      |
-| [乔丹·彼得森](https://github.com/nuwa-skills/peterson-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25   | 秩序/混沌/责任      | `npx skills add nuwa-skills/peterson-skill`    |
-| [蒂姆·费里斯](https://github.com/nuwa-skills/ferriss-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25    | 生活黑客/4小时/最优化  | `npx skills add nuwa-skills/ferriss-skill`     |
-| [詹姆斯·克利尔](https://github.com/nuwa-skills/clear-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25     | 原子习惯/系统/复利    | `npx skills add nuwa-skills/clear-skill`       |
-| [格拉德威尔](https://github.com/nuwa-skills/gladwell-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25    | 引爆点/异类/直觉     | `npx skills add nuwa-skills/gladwell-skill`    |
+| [乔丹·彼得森](https://github.com/nuwa-skills/peterson-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17   | 秩序/混沌/责任      | `npx skills add nuwa-skills/peterson-skill`    |
+| [蒂姆·费里斯](https://github.com/nuwa-skills/ferriss-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17    | 生活黑客/4小时/最优化  | `npx skills add nuwa-skills/ferriss-skill`     |
+| [詹姆斯·克利尔](https://github.com/nuwa-skills/clear-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17     | 原子习惯/系统/复利    | `npx skills add nuwa-skills/clear-skill`       |
+| [格拉德威尔](https://github.com/nuwa-skills/gladwell-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-17    | 引爆点/异类/直觉     | `npx skills add nuwa-skills/gladwell-skill`    |
 | [纳瓦尔](https://github.com/alchaincyf/naval-skill) ⭐ 261 \| 🐛 3 \| 📅 2026-10-13        | 财富/杠杆/人生哲学    | `npx skills add alchaincyf/naval-skill`        |
 | [塔勒布](https://github.com/alchaincyf/taleb-skill) ⭐ 128 \| 🐛 2 \| 📅 2026-10-13        | 风险/反脆弱/不确定性   | `npx skills add alchaincyf/taleb-skill`        |
 | [查理·罗斯](https://github.com/nuwa-skills/charlierose-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-07-25 | 深度访谈/提问的艺术/倾听 | `npx skills add nuwa-skills/charlierose-skill` |
@@ -339,10 +339,10 @@ npx skills add alchaincyf/nuwa-skill
 
 MIT License
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 34,693 | 🐛 21 | 🌐 Python | 📅 2026-10-15
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 34,826 | 🐛 21 | 🌐 Python | 📅 2026-10-17
 
 </div>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
