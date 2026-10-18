@@ -15,12 +15,20 @@
             "id": 1207829225,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:14Z",
+            "last_commit": "2026-10-18T08:41:18Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kongzi-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -36,12 +44,20 @@
             "id": 1207874728,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:14Z",
+            "last_commit": "2026-10-18T08:41:20Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "laozi-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -52,17 +68,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "庄子.skill — 逍遥游/齐物论/寓言哲学的思维操作系统",
             "homepage": null,
             "id": 1207914010,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:47Z",
+            "last_commit": "2026-10-18T08:42:06Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhuangzi-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -73,17 +97,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "孙子.skill — 兵法/战略思维/博弈论的思维操作系统",
             "homepage": null,
             "id": 1207912977,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:32Z",
+            "last_commit": "2026-10-18T08:41:50Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sunzi-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -99,12 +131,20 @@
             "id": 1207874640,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:40Z",
+            "last_commit": "2026-10-18T08:41:56Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
             "stars": 25,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -120,12 +160,20 @@
             "id": 1207874692,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:43Z",
+            "last_commit": "2026-10-18T08:42:01Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zengguofan-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -136,17 +184,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "韩非子.skill — 法治/权术/制度设计的思维操作系统",
             "homepage": null,
             "id": 1207910268,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:06Z",
+            "last_commit": "2026-10-18T08:41:10Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hanfeizi-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -157,17 +213,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "墨子.skill — 兼爱/非攻/工程思维的思维操作系统",
             "homepage": null,
             "id": 1207911974,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:25Z",
+            "last_commit": "2026-10-18T08:41:31Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mozi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -178,17 +242,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "荀子.skill — 性恶论/礼法并重/教化的思维操作系统",
             "homepage": null,
             "id": 1207913825,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:42Z",
+            "last_commit": "2026-10-18T08:42:06Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "xunzi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -199,17 +271,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "朱熹.skill — 理学/格物致知/读书法的思维操作系统",
             "homepage": null,
             "id": 1207914126,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:47Z",
+            "last_commit": "2026-10-18T08:42:08Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhuxi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -220,17 +300,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "鬼谷子.skill — 纵横术/说服术/博弈的思维操作系统",
             "homepage": null,
             "id": 1207910219,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:05Z",
+            "last_commit": "2026-10-18T08:41:10Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "guiguzi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -241,17 +329,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "诸葛亮.skill — 战略/谋略/治国的思维操作系统",
             "homepage": null,
             "id": 1207914062,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:45Z",
+            "last_commit": "2026-10-18T08:42:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhugeliang-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -262,17 +358,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "苏东坡.skill — 豁达/文学/生活美学的思维操作系统",
             "homepage": null,
             "id": 1207912945,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:31Z",
+            "last_commit": "2026-10-18T08:41:49Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sudongpo-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -283,17 +387,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "王夫之.skill — 实学/经世致用/唯物的思维操作系统",
             "homepage": null,
             "id": 1207913548,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:38Z",
+            "last_commit": "2026-10-18T08:41:53Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangfuzhi-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "chinese-philosophy",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -315,12 +427,20 @@
             "id": 1207874784,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:30Z",
+            "last_commit": "2026-10-18T08:41:40Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "socrates-skill",
-            "stars": 13,
-            "topics": []
+            "stars": 14,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -331,17 +451,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "柏拉图.skill — 理念论/哲学对话/理想国的思维操作系统",
             "homepage": null,
             "id": 1207912461,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:29Z",
+            "last_commit": "2026-10-18T08:41:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "plato-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -352,17 +480,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "亚里士多德.skill — 逻辑学/修辞学/伦理学的思维操作系统",
             "homepage": null,
             "id": 1207908904,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "aristotle-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -373,17 +509,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "马可·奥勒留.skill — 斯多葛/沉思录/自我修炼的思维操作系统",
             "homepage": null,
             "id": 1207908956,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "aurelius-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -394,17 +538,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "爱比克泰德.skill — 斯多葛实践/自由/控制二分法的思维操作系统",
             "homepage": null,
             "id": 1207909846,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:01Z",
+            "last_commit": "2026-10-18T08:40:59Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "epictetus-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -415,17 +567,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "塞涅卡.skill — 斯多葛/书信/时间管理的思维操作系统",
             "homepage": null,
             "id": 1207912681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:29Z",
+            "last_commit": "2026-10-18T08:41:38Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "seneca-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -436,17 +596,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "康德.skill — 纯粹理性/道德律/批判哲学的思维操作系统",
             "homepage": null,
             "id": 1207910694,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:10Z",
+            "last_commit": "2026-10-18T08:41:17Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kant-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -457,17 +625,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "尼采.skill — 超人哲学/权力意志/价值重估的思维操作系统",
             "homepage": null,
             "id": 1207912172,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:25Z",
+            "last_commit": "2026-10-18T08:41:32Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "nietzsche-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -478,17 +654,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "叔本华.skill — 意志/悲观主义/审美解脱的思维操作系统",
             "homepage": null,
             "id": 1207915636,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:31Z",
+            "last_commit": "2026-10-18T08:41:38Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "schopenhauer-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -499,17 +683,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "蒙田.skill — 随笔/自我认知/怀疑精神的思维操作系统",
             "homepage": null,
             "id": 1207911875,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:23Z",
+            "last_commit": "2026-10-18T08:41:30Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montaigne-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -520,17 +712,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "维特根斯坦.skill — 语言哲学/逻辑/沉默的思维操作系统",
             "homepage": null,
             "id": 1207913721,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:42Z",
+            "last_commit": "2026-10-18T08:41:57Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wittgenstein-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -541,17 +741,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "赫拉克利特.skill — 万物流变/对立统一/逻各斯的思维操作系统",
             "homepage": null,
             "id": 1207945140,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:05Z",
+            "last_commit": "2026-10-18T08:41:11Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "heraclitus-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -562,17 +770,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "福柯.skill — 权力/知识/话语分析的思维操作系统",
             "homepage": null,
             "id": 1207944993,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:02Z",
+            "last_commit": "2026-10-18T08:41:06Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "foucault-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -583,17 +799,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "汉娜·阿伦特.skill — 平庸之恶/极权主义/政治判断力的思维操作系统",
             "homepage": null,
             "id": 1207945039,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "arendt-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -604,17 +828,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "西蒙娜·德·波伏娃.skill — 女性主义/存在主义/自由的思维操作系统",
             "homepage": null,
             "id": 1207945087,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:40Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "beauvoir-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "philosophy",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -636,12 +868,20 @@
             "id": 1207875330,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:01Z",
+            "last_commit": "2026-10-18T08:41:04Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "feynman-skill",
             "stars": 8,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -652,17 +892,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "爱因斯坦.skill — 想象力/思维实验/相对论思维的思维操作系统",
             "homepage": null,
             "id": 1207909751,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:58Z",
+            "last_commit": "2026-10-18T08:41:01Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "einstein-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -673,17 +921,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "达尔文.skill — 进化论/观察/反确认偏误的思维操作系统",
             "homepage": null,
             "id": 1207909535,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:53Z",
+            "last_commit": "2026-10-18T08:40:53Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "darwin-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -694,17 +950,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "牛顿.skill — 第一性原理/数学思维/系统的思维操作系统",
             "homepage": null,
             "id": 1207912122,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:27Z",
+            "last_commit": "2026-10-18T08:41:32Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "newton-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -715,17 +979,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "图灵.skill — 计算思维/人工智能/密码学的思维操作系统",
             "homepage": null,
             "id": 1207913372,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:38Z",
+            "last_commit": "2026-10-18T08:41:52Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "turing-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -736,17 +1008,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "居里夫人.skill — 科学毅力/女性力量/专注的思维操作系统",
             "homepage": null,
             "id": 1207909413,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:52Z",
+            "last_commit": "2026-10-18T08:40:51Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "curie-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -757,17 +1037,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "特斯拉.skill — 发明/想象力/交流电思维的思维操作系统",
             "homepage": null,
             "id": 1207913120,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:33Z",
+            "last_commit": "2026-10-18T08:41:43Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "tesla-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -778,17 +1066,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "香农.skill — 信息论/化繁为简/创造性玩耍的思维操作系统",
             "homepage": null,
             "id": 1207912736,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:30Z",
+            "last_commit": "2026-10-18T08:41:39Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "shannon-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -799,17 +1095,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "冯·诺依曼.skill — 博弈论/计算架构/跨学科的思维操作系统",
             "homepage": null,
             "id": 1207913416,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:36Z",
+            "last_commit": "2026-10-18T08:41:57Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "vonneumann-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -820,17 +1124,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "哥白尼.skill — 范式革命/勇气/观察的思维操作系统",
             "homepage": null,
             "id": 1207909371,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:52Z",
+            "last_commit": "2026-10-18T08:40:48Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "copernicus-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -841,17 +1153,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "法拉第.skill — 实验精神/自学成才/直觉的思维操作系统",
             "homepage": null,
             "id": 1207909898,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:59Z",
+            "last_commit": "2026-10-18T08:41:03Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "faraday-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -867,12 +1187,20 @@
             "id": 1207874829,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:54Z",
+            "last_commit": "2026-10-18T08:40:53Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "davinci-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -883,17 +1211,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "钱学森.skill — 系统工程/跨学科/航天精神的思维操作系统",
             "homepage": null,
             "id": 1207945186,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:27Z",
+            "last_commit": "2026-10-18T08:18:42Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "qianxuesen-skill",
             "stars": 13,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -904,17 +1240,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "高德纳.skill — 计算机科学之美/极致严谨/文学化编程的思维操作系统",
             "homepage": null,
             "id": 1207945242,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:14Z",
+            "last_commit": "2026-10-18T08:18:23Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "knuth-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -925,17 +1269,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "卡尔·萨根.skill — 科学传播/宇宙视角/怀疑精神的思维操作系统",
             "homepage": null,
             "id": 1207945293,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:31Z",
+            "last_commit": "2026-10-18T08:18:45Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "sagan-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -946,17 +1298,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "杨振宁.skill — 物理之美/科学品味/对称性的思维操作系统",
             "homepage": null,
             "id": 1207945835,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:41Z",
+            "last_commit": "2026-10-18T08:42:06Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "yangzhenning-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "science"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -973,17 +1333,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "德鲁克.skill — 管理学/知识工作者/目标管理的思维操作系统",
             "homepage": null,
             "id": 1207909706,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:57Z",
+            "last_commit": "2026-10-18T08:40:56Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "drucker-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -994,17 +1362,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "贝佐斯.skill — 长期主义/客户至上/Day1思维的思维操作系统",
             "homepage": null,
             "id": 1207909043,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:40Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "bezos-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1015,17 +1391,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "山姆·沃尔顿.skill — 零售/节约/规模效应的思维操作系统",
             "homepage": null,
             "id": 1207913447,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:37Z",
+            "last_commit": "2026-10-18T08:41:53Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "walton-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1036,17 +1420,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "安迪·格鲁夫.skill — 偏执狂/战略转折点/OKR的思维操作系统",
             "homepage": null,
             "id": 1207910184,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:05Z",
+            "last_commit": "2026-10-18T08:41:08Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "grove-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1057,17 +1449,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "松下幸之助.skill — 经营之神/自来水哲学/培养人的思维操作系统",
             "homepage": null,
             "id": 1207911611,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:21Z",
+            "last_commit": "2026-10-18T08:18:34Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "matsushita-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1078,17 +1478,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "亨利·福特.skill — 流水线/规模化/工资革命的思维操作系统",
             "homepage": null,
             "id": 1207909969,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:02Z",
+            "last_commit": "2026-10-18T08:18:12Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ford-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1099,17 +1507,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "杰克·韦尔奇.skill — 数一数二/活力曲线/变革的思维操作系统",
             "homepage": null,
             "id": 1207913664,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:41Z",
+            "last_commit": "2026-10-18T08:19:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "welch-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1125,12 +1541,20 @@
             "id": 1207875198,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:09Z",
+            "last_commit": "2026-10-18T08:41:14Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "inamori-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1141,17 +1565,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "铃木敏文.skill — 7-Eleven/单品管理/假设验证的思维操作系统",
             "homepage": null,
             "id": 1207944817,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:36Z",
+            "last_commit": "2026-10-18T08:41:50Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "suzukitoshifumi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1162,17 +1594,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "詹姆斯·韦伯.skill — NASA管理/阿波罗计划/科学行政的思维操作系统",
             "homepage": null,
             "id": 1207945335,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:39Z",
+            "last_commit": "2026-10-18T08:19:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "webb-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "business",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -1189,17 +1629,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "任正非.skill — 灰度管理/狼性/自我批判的思维操作系统",
             "homepage": null,
             "id": 1207912567,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:29Z",
+            "last_commit": "2026-10-18T08:41:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "renzhengfei-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1210,17 +1658,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "张一鸣.skill — 延迟满足/算法思维/全球化的思维操作系统",
             "homepage": null,
             "id": 1207913963,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:46Z",
+            "last_commit": "2026-10-18T08:19:12Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangyiming-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1231,17 +1687,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "雷军.skill — 极致性价比/风口论/互联网思维的思维操作系统",
             "homepage": null,
             "id": 1207910978,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:16Z",
+            "last_commit": "2026-10-18T08:18:27Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "leijun-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1252,17 +1716,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "马云.skill — 愿景驱动/生态系统/让天下没有难做的生意的思维操作系统",
             "homepage": null,
             "id": 1207911647,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:20Z",
+            "last_commit": "2026-10-18T08:41:27Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mayun-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1273,17 +1745,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "马化腾.skill — 产品思维/社交连接/小步快跑的思维操作系统",
             "homepage": null,
             "id": 1207911458,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:21Z",
+            "last_commit": "2026-10-18T08:41:25Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mahuateng-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1294,17 +1774,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "黄峥.skill — 本分/消费洞察/普惠的思维操作系统",
             "homepage": null,
             "id": 1207915549,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:08Z",
+            "last_commit": "2026-10-18T08:41:14Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "huangzheng-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1315,17 +1803,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "王兴.skill — 无边界/后发制人/长期主义的思维操作系统",
             "homepage": null,
             "id": 1207915681,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:41Z",
+            "last_commit": "2026-10-18T08:41:56Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangxing-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1336,17 +1832,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "刘强东.skill — 重资产/执行力/正道成功的思维操作系统",
             "homepage": null,
             "id": 1207920532,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:18Z",
+            "last_commit": "2026-10-18T08:41:23Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liuqiangdong-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1357,17 +1861,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "曹德旺.skill — 实业报国/专注/玻璃大王的思维操作系统",
             "homepage": null,
             "id": 1207909169,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:52Z",
+            "last_commit": "2026-10-18T08:40:55Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "caodewang-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1378,17 +1890,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "董明珠.skill — 铁娘子/品质执念/自主创新的思维操作系统",
             "homepage": null,
             "id": 1207909660,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:57Z",
+            "last_commit": "2026-10-18T08:40:56Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dongmingzhu-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1399,17 +1919,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "俞敏洪.skill — 教育创业/逆境重生/从绝望中寻找希望的思维操作系统",
             "homepage": null,
             "id": 1207913863,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:45Z",
+            "last_commit": "2026-10-18T08:42:00Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "yuminhong-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1420,17 +1948,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "王传福.skill — 工程师精神/垂直整合/技术为王的思维操作系统",
             "homepage": null,
             "id": 1207913506,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:37Z",
+            "last_commit": "2026-10-18T08:41:53Z",
             "open_issues": 1,
             "owner": "nuwa-skills",
             "repo": "wangchuanfu-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1441,17 +1977,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "段永平.skill — 本分/价值投资/做对的事的思维操作系统",
             "homepage": null,
             "id": 1207915492,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:58Z",
+            "last_commit": "2026-10-18T08:41:12Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "duanyongping-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1462,17 +2006,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "张小龙.skill — 极简产品/克制/用完即走的思维操作系统",
             "homepage": null,
             "id": 1207913907,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:45Z",
+            "last_commit": "2026-10-18T08:42:04Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangxiaolong-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1483,17 +2035,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "宗庆后.skill — 渠道为王/朴素经营/一线调研的思维操作系统",
             "homepage": null,
             "id": 1207914174,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:45Z",
+            "last_commit": "2026-10-18T08:42:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zongqinghou-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1504,17 +2064,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "李彦宏.skill — 技术信仰/搜索/AI转型的思维操作系统",
             "homepage": null,
             "id": 1207911264,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:16Z",
+            "last_commit": "2026-10-18T08:41:24Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liyanhong-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1525,17 +2093,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "丁磊.skill — 产品品味/慢公司/不跟风的思维操作系统",
             "homepage": null,
             "id": 1207909632,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:57Z",
+            "last_commit": "2026-10-18T08:42:41Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dinglei-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1546,17 +2122,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "周鸿祎.skill — 安全/红衣教主/颠覆式创新的思维操作系统",
             "homepage": null,
             "id": 1207915710,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:47Z",
+            "last_commit": "2026-10-18T08:42:05Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhouhongyi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1567,17 +2151,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "刘永好.skill — 农业帝国/家族传承/顺势而为的思维操作系统",
             "homepage": null,
             "id": 1207911212,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:43:59Z",
+            "last_commit": "2026-10-18T08:41:23Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liuyonghao-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1588,17 +2180,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "王健林.skill — 敢想敢做/执行力/目标管理的思维操作系统",
             "homepage": null,
             "id": 1207913583,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:44:22Z",
+            "last_commit": "2026-10-18T08:42:01Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangjianlin-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1609,17 +2209,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "梁建章.skill — 人口经济学/二次创业/跨界思考的思维操作系统",
             "homepage": null,
             "id": 1207911027,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:43:51Z",
+            "last_commit": "2026-10-18T08:41:21Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liangjianzhang-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1630,17 +2238,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "史玉柱.skill — 营销鬼才/东山再起/人性洞察的思维操作系统",
             "homepage": null,
             "id": 1207912777,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:44:18Z",
+            "last_commit": "2026-10-18T08:41:39Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "shiyuzhu-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1651,17 +2267,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "李书福.skill — 草根造车/全球并购/敢想敢干的思维操作系统",
             "homepage": null,
             "id": 1207915591,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:43:55Z",
+            "last_commit": "2026-10-18T08:41:22Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "lishufu-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1672,17 +2296,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "黄仁勋.skill — 算力革命/加速计算/长期押注的思维操作系统",
             "homepage": null,
             "id": 1207910485,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:08Z",
+            "last_commit": "2026-10-18T08:41:13Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "huangrenxun-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1698,12 +2330,20 @@
             "id": 1207851329,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:43Z",
+            "last_commit": "2026-10-18T08:42:16Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangxue-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1719,12 +2359,20 @@
             "id": 1207864590,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:01Z",
+            "last_commit": "2026-10-18T08:41:03Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "fengtang-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "entrepreneurship",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -1746,12 +2394,20 @@
             "id": 1207875287,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:52Z",
+            "last_commit": "2026-10-18T08:40:40Z",
             "open_issues": 1,
             "owner": "nuwa-skills",
             "repo": "buffett-skill",
             "stars": 12,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1762,17 +2418,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "达利欧.skill — 原则/极度透明/算法决策的思维操作系统",
             "homepage": null,
             "id": 1207909470,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:54Z",
+            "last_commit": "2026-10-18T08:40:51Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dalio-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1783,17 +2447,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "索罗斯.skill — 反身性/金融哲学/开放社会的思维操作系统",
             "homepage": null,
             "id": 1207912844,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:33Z",
+            "last_commit": "2026-10-18T08:41:40Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "soros-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1804,17 +2476,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "彼得·林奇.skill — 生活选股/十倍股/业余优势的思维操作系统",
             "homepage": null,
             "id": 1207911344,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:20Z",
+            "last_commit": "2026-10-18T08:41:25Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "lynch-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1825,17 +2505,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "霍华德·马克斯.skill — 周期/第二层思维/风险的思维操作系统",
             "homepage": null,
             "id": 1207911560,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:22Z",
+            "last_commit": "2026-10-18T08:41:27Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "marks-skill",
             "stars": 3,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1846,17 +2534,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "约翰·博格.skill — 指数基金/低成本/长期持有的思维操作系统",
             "homepage": null,
             "id": 1207909082,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:49Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "bogle-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1867,17 +2563,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "彼得·蒂尔.skill — 从0到1/垄断/逆向思考的思维操作系统",
             "homepage": null,
             "id": 1207913212,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:34Z",
+            "last_commit": "2026-10-18T08:41:52Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "thiel-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1888,24 +2592,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "本杰明·格雷厄姆.skill — 价值投资之父/安全边际/市场先生的思维操作系统",
             "homepage": null,
             "id": 1207910135,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:06Z",
+            "last_commit": "2026-10-18T08:41:08Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "grahamben-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "investing",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
         {
           "node_type": "item",
           "title": "芒格",
-          "description": "投资/认知偏误/逆向思考",
+          "description": "投资/认知偏误/逆向思考（社区）",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1936,17 +2648,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "保罗·格雷厄姆.skill — 创业/黑客精神/写作的思维操作系统",
             "homepage": null,
             "id": 1207912319,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:28Z",
+            "last_commit": "2026-10-18T08:41:34Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "pggraham-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1957,17 +2677,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "凯文·凯利.skill — 未来趋势/失控/必然的思维操作系统",
             "homepage": null,
             "id": 1207910738,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:14Z",
+            "last_commit": "2026-10-18T08:41:17Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kevinkelly-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1978,17 +2706,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "林纳斯·托瓦兹.skill — 开源/工程美学/务实的思维操作系统",
             "homepage": null,
             "id": 1207913317,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:38Z",
+            "last_commit": "2026-10-18T08:41:51Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "torvalds-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -1999,24 +2735,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "吴军.skill — 文明之光/信息论思维/格局/见识的思维操作系统",
             "homepage": null,
             "id": 1207913778,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:40Z",
+            "last_commit": "2026-10-18T08:41:59Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wujun-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
         {
           "node_type": "item",
           "title": "乔布斯",
-          "description": "产品/设计/战略",
+          "description": "产品/设计/战略（社区）",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2037,7 +2781,7 @@
         {
           "node_type": "item",
           "title": "马斯克",
-          "description": "工程/成本/第一性原理",
+          "description": "工程/成本/第一性原理（社区）",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2062,17 +2806,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "山姆·奥特曼.skill — AI时代创业/指数思维/技术乐观主义的思维操作系统",
             "homepage": null,
             "id": 1207944869,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "altman-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2083,17 +2835,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "里德·霍夫曼.skill — 闪电式扩张/人脉网络/联盟思维的思维操作系统",
             "homepage": null,
             "id": 1207944915,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:09Z",
+            "last_commit": "2026-10-18T08:41:12Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hoffman-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2104,17 +2864,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "本·霍洛维茨.skill — 创业维艰/战时CEO/企业文化的思维操作系统",
             "homepage": null,
             "id": 1207944963,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:08Z",
+            "last_commit": "2026-10-18T08:41:13Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "horowitz-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2125,17 +2893,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "大前研一.skill — 战略思维/无国界经济/问题解决法的思维操作系统",
             "homepage": null,
             "id": 1207945921,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:25Z",
+            "last_commit": "2026-10-18T08:41:33Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ohmae-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "technology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2152,17 +2928,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "鲁迅.skill — 批判/国民性/杂文的思维操作系统",
             "homepage": null,
             "id": 1207911295,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:19Z",
+            "last_commit": "2026-10-18T08:41:25Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "luxun-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2173,17 +2957,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "胡适.skill — 实验主义/自由主义/白话文的思维操作系统",
             "homepage": null,
             "id": 1207910531,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:10Z",
+            "last_commit": "2026-10-18T08:41:14Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hushi-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2194,17 +2986,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "王小波.skill — 自由/理性/黑色幽默的思维操作系统",
             "homepage": null,
             "id": 1207913619,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:40Z",
+            "last_commit": "2026-10-18T08:42:01Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangxiaobo-skill",
             "stars": 5,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2215,17 +3015,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "林语堂.skill — 生活艺术/中西文化/幽默的思维操作系统",
             "homepage": null,
             "id": 1207911160,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:18Z",
+            "last_commit": "2026-10-18T08:41:22Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "linyutang-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2236,17 +3044,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "钱钟书.skill — 博学/讽刺/学术的思维操作系统",
             "homepage": null,
             "id": 1207912515,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:27Z",
+            "last_commit": "2026-10-18T08:41:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "qianzhongshu-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2263,17 +3079,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "海明威.skill — 简洁/冰山理论/勇气的思维操作系统",
             "homepage": null,
             "id": 1207910446,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:06Z",
+            "last_commit": "2026-10-18T08:41:11Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hemingway-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2284,17 +3108,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "村上春树.skill — 纪律/长跑/孤独创作的思维操作系统",
             "homepage": null,
             "id": 1207912018,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:23Z",
+            "last_commit": "2026-10-18T08:41:32Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "murakami-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2305,17 +3137,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "奥威尔.skill — 政治写作/清晰/真相的思维操作系统",
             "homepage": null,
             "id": 1207912216,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:28Z",
+            "last_commit": "2026-10-18T08:41:33Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "orwell-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2326,17 +3166,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "托尔斯泰.skill — 人性/道德/史诗叙事的思维操作系统",
             "homepage": null,
             "id": 1207913276,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:35Z",
+            "last_commit": "2026-10-18T08:41:50Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "tolstoy-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2347,17 +3195,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "斯蒂芬·金.skill — 写作/纪律/恐惧的思维操作系统",
             "homepage": null,
             "id": 1207912899,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:31Z",
+            "last_commit": "2026-10-18T08:41:47Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "stephenking-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2368,17 +3224,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "卡夫卡.skill — 荒诞/异化/现代性焦虑的思维操作系统",
             "homepage": null,
             "id": 1207945598,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:12Z",
+            "last_commit": "2026-10-18T08:41:15Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kafka-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2389,17 +3253,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "博尔赫斯.skill — 想象力/无限/迷宫思维的思维操作系统",
             "homepage": null,
             "id": 1207945641,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:49Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "borges-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2410,17 +3282,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "太宰治.skill — 人间失格/边缘人视角/自我解剖的思维操作系统",
             "homepage": null,
             "id": 1207945692,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:57Z",
+            "last_commit": "2026-10-18T08:40:53Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dazai-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2431,17 +3311,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "罗伯特·麦基.skill — 故事结构/编剧方法论/叙事原理的思维操作系统",
             "homepage": null,
             "id": 1207945740,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:21Z",
+            "last_commit": "2026-10-18T08:41:28Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mckee-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "literature",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2458,17 +3346,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "荣格.skill — 集体无意识/原型/个体化的思维操作系统",
             "homepage": null,
             "id": 1207910586,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:09Z",
+            "last_commit": "2026-10-18T08:41:15Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "jung-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "psychology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2479,17 +3375,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "弗兰克尔.skill — 意义疗法/苦难/选择的思维操作系统",
             "homepage": null,
             "id": 1207910007,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:03Z",
+            "last_commit": "2026-10-18T08:41:06Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "frankl-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "psychology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2500,17 +3404,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "阿德勒.skill — 自卑与超越/社会兴趣/勇气的思维操作系统",
             "homepage": null,
             "id": 1207908744,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "adler-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "psychology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2521,17 +3433,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "卡尼曼.skill — 系统1vs2/认知偏误/前景理论的思维操作系统",
             "homepage": null,
             "id": 1207910637,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:10Z",
+            "last_commit": "2026-10-18T08:41:16Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kahneman-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "psychology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2542,17 +3462,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "契克森米哈赖.skill — 心流/最优体验/内在动机的思维操作系统",
             "homepage": null,
             "id": 1207911691,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:23Z",
+            "last_commit": "2026-10-18T08:41:28Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mihaly-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "psychology"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2569,17 +3497,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "丘吉尔.skill — 领导力/演讲/逆境的思维操作系统",
             "homepage": null,
             "id": 1207909217,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:53Z",
+            "last_commit": "2026-10-18T08:40:44Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "churchill-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "leadership",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2590,17 +3526,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "林肯.skill — 领导力/统一/道德勇气的思维操作系统",
             "homepage": null,
             "id": 1207911107,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:16Z",
+            "last_commit": "2026-10-18T08:41:21Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "lincoln-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "leadership",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2611,17 +3555,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "甘地.skill — 非暴力/自律/精神力量的思维操作系统",
             "homepage": null,
             "id": 1207910055,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:01Z",
+            "last_commit": "2026-10-18T08:41:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "gandhi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "leadership",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2632,17 +3584,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "曼德拉.skill — 和解/坚韧/宽恕的思维操作系统",
             "homepage": null,
             "id": 1207911512,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:21Z",
+            "last_commit": "2026-10-18T08:41:26Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mandela-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "leadership",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2653,17 +3613,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "李光耀.skill — 治国/实用主义/制度设计的思维操作系统",
             "homepage": null,
             "id": 1207911072,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:18Z",
+            "last_commit": "2026-10-18T08:41:21Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liguangyao-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "leadership",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2679,12 +3647,20 @@
             "id": 1207875143,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:01Z",
+            "last_commit": "2026-10-18T08:41:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "franklin-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "leadership",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2701,17 +3677,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "拿破仑.skill — 军事/战略/执行力的思维操作系统",
             "homepage": null,
             "id": 1207912074,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:44:10Z",
+            "last_commit": "2026-10-18T08:41:32Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "napoleon-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2722,17 +3706,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "克劳塞维茨.skill — 战争论/摩擦/战争迷雾的思维操作系统",
             "homepage": null,
             "id": 1207909276,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:54Z",
+            "last_commit": "2026-10-18T08:41:04Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "clausewitz-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2743,17 +3735,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "马基雅维利.skill — 权力/现实主义/君主论的思维操作系统",
             "homepage": null,
             "id": 1207911401,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:44:03Z",
+            "last_commit": "2026-10-18T08:41:26Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "machiavelli-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2769,12 +3769,20 @@
             "id": 1207875254,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:50Z",
+            "last_commit": "2026-10-18T08:40:40Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "brucelee-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2785,17 +3793,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "曹操.skill — 用人之道/权谋/乱世决策的思维操作系统",
             "homepage": null,
             "id": 1207945403,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:50Z",
+            "last_commit": "2026-10-18T08:40:44Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "caocao-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2806,17 +3822,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "刘邦.skill — 草根逆袭/驭人术/知人善任的思维操作系统",
             "homepage": null,
             "id": 1207945448,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:18Z",
+            "last_commit": "2026-10-18T08:41:23Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "liubang-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2827,17 +3851,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "张居正.skill — 改革/执行力/制度设计的思维操作系统",
             "homepage": null,
             "id": 1207945489,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:43Z",
+            "last_commit": "2026-10-18T08:42:03Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zhangjuzheng-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2848,17 +3880,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "俾斯麦.skill — 铁血政策/现实政治/统一战略的思维操作系统",
             "homepage": null,
             "id": 1207945548,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:50Z",
+            "last_commit": "2026-10-18T08:40:40Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "bismarck-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "strategy"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2875,17 +3915,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "宫崎骏.skill — 动画/自然/想象力的思维操作系统",
             "homepage": null,
             "id": 1207911787,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:44:06Z",
+            "last_commit": "2026-10-18T08:41:29Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "miyazaki-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "art",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2896,17 +3944,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "贝多芬.skill — 苦难/创造力/超越的思维操作系统",
             "homepage": null,
             "id": 1207908990,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:48Z",
+            "last_commit": "2026-10-18T08:40:49Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "beethoven-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "art",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2917,17 +3973,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "安藤忠雄.skill — 建筑/极简/自学的思维操作系统",
             "homepage": null,
             "id": 1207908843,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ando-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "art",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2938,17 +4002,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "黑泽明.skill — 电影/叙事/完美主义的思维操作系统",
             "homepage": null,
             "id": 1207910938,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:15Z",
+            "last_commit": "2026-10-18T08:41:19Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kurosawa-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "art",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2959,17 +4031,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "毕加索.skill — 创造力/风格变革/多产的思维操作系统",
             "homepage": null,
             "id": 1207912430,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:27Z",
+            "last_commit": "2026-10-18T08:41:35Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "picasso-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "art",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2980,17 +4060,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "铃木敏夫.skill — 吉卜力制作人/商业与艺术平衡的思维操作系统",
             "homepage": null,
             "id": 1207945786,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:36Z",
+            "last_commit": "2026-10-18T08:41:43Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "suzukitoshio-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "art",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -3007,17 +4095,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "迈克尔·乔丹.skill — 竞争/极致/心理韧性的思维操作系统",
             "homepage": null,
             "id": 1207911837,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:25Z",
+            "last_commit": "2026-10-18T08:41:30Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mjordan-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "sports"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3028,17 +4124,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "科比.skill — 曼巴精神/专注/训练的思维操作系统",
             "homepage": null,
             "id": 1207910843,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:11Z",
+            "last_commit": "2026-10-18T08:41:18Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "kobe-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "sports"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3049,17 +4153,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "菲尔·杰克逊.skill — 禅师/团队/领导力的思维操作系统",
             "homepage": null,
             "id": 1207912367,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:27Z",
+            "last_commit": "2026-10-18T08:41:35Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "philjackson-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "sports"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -3076,17 +4188,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "蒙特梭利.skill — 儿童教育/自主学习/环境设计的思维操作系统",
             "homepage": null,
             "id": 1207911920,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:23Z",
+            "last_commit": "2026-10-18T08:41:30Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montessori-skill",
             "stars": 2,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "education",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3097,17 +4217,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "杜威.skill — 实用主义教育/做中学/民主的思维操作系统",
             "homepage": null,
             "id": 1207909575,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:57Z",
+            "last_commit": "2026-10-18T08:40:54Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "dewey-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "education",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3118,24 +4246,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "陶行知.skill — 生活教育/教学做合一/乡村的思维操作系统",
             "homepage": null,
             "id": 1207913058,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:36Z",
+            "last_commit": "2026-10-18T08:41:51Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "taoxingzhi-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "education",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
         {
           "node_type": "item",
           "title": "张雪峰",
-          "description": "教育/职业规划/阶层流动",
+          "description": "教育/职业规划/阶层流动（社区）",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3148,7 +4284,7 @@
             "open_issues": 26,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10523,
+            "stars": 10527,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3166,17 +4302,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "亚当·斯密.skill — 国富论/看不见的手/分工的思维操作系统",
             "homepage": null,
             "id": 1207908697,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "adamsmith-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "economics",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3187,17 +4331,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "凯恩斯.skill — 宏观经济/政府干预/动物精神的思维操作系统",
             "homepage": null,
             "id": 1207910790,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:14Z",
+            "last_commit": "2026-10-18T08:41:18Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "keynes-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "economics",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3208,17 +4360,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "哈耶克.skill — 自由市场/自发秩序/知识论的思维操作系统",
             "homepage": null,
             "id": 1207910394,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:04Z",
+            "last_commit": "2026-10-18T08:41:11Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "hayek-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "economics",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3229,17 +4389,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "熊彼特.skill — 创造性破坏/企业家精神/创新的思维操作系统",
             "homepage": null,
             "id": 1207912629,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:31Z",
+            "last_commit": "2026-10-18T08:41:38Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "schumpeter-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "economics",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3250,17 +4418,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "米塞斯.skill — 人的行为/奥地利学派/逻辑的思维操作系统",
             "homepage": null,
             "id": 1207911737,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:25Z",
+            "last_commit": "2026-10-18T08:41:29Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "mises-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "economics",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -3277,17 +4453,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "铃木俊隆.skill — 禅者的初心/当下/空杯的思维操作系统",
             "homepage": null,
             "id": 1207913025,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:34Z",
+            "last_commit": "2026-10-18T08:41:49Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "suzuki-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "spirituality"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3298,17 +4482,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "克里希那穆提.skill — 自由/观察/不从众的思维操作系统",
             "homepage": null,
             "id": 1207910900,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:14Z",
+            "last_commit": "2026-10-18T08:41:19Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "krishnamurti-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "spirituality"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3319,17 +4511,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "一行禅师.skill — 正念/当下/和平的思维操作系统",
             "homepage": null,
             "id": 1207913166,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:34Z",
+            "last_commit": "2026-10-18T08:41:46Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "thichnhathanh-skill",
             "stars": 1,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "spirituality"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3340,17 +4540,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "约瑟夫·坎贝尔.skill — 英雄之旅/神话/人生意义的思维操作系统",
             "homepage": null,
             "id": 1207909130,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:50Z",
+            "last_commit": "2026-10-18T08:40:44Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "campbell-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "spirituality"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3361,17 +4569,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "爱默生.skill — 自立/超验主义/自然的思维操作系统",
             "homepage": null,
             "id": 1207909796,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:57Z",
+            "last_commit": "2026-10-18T08:41:02Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "emerson-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "spirituality"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3382,17 +4598,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "艾伦·沃茨.skill — 东西方哲学/禅/觉醒的思维操作系统",
             "homepage": null,
             "id": 1207908791,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:46Z",
+            "last_commit": "2026-10-18T08:40:36Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "alanwatts-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "nuwa",
+              "persona",
+              "prompt-engineering",
+              "spirituality"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -3409,17 +4633,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "赫拉利.skill — 人类简史/未来/认知革命的思维操作系统",
             "homepage": null,
             "id": 1207910336,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:07:06Z",
+            "last_commit": "2026-10-18T08:41:10Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "harari-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "modern-thought",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3430,17 +4662,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "乔丹·彼得森.skill — 秩序/混沌/责任的思维操作系统",
             "homepage": null,
             "id": 1207912255,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:44:14Z",
+            "last_commit": "2026-10-18T08:41:34Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "peterson-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "modern-thought",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3451,17 +4691,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "蒂姆·费里斯.skill — 生活黑客/4小时/最优化的思维操作系统",
             "homepage": null,
             "id": 1207909937,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:43:43Z",
+            "last_commit": "2026-10-18T08:41:04Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "ferriss-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "modern-thought",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3472,17 +4720,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "詹姆斯·克利尔.skill — 原子习惯/系统/复利的思维操作系统",
             "homepage": null,
             "id": 1207909330,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:43:36Z",
+            "last_commit": "2026-10-18T08:40:47Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "clear-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "modern-thought",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -3493,24 +4749,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "格拉德威尔.skill — 引爆点/异类/直觉的思维操作系统",
             "homepage": null,
             "id": 1207910102,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-17T15:43:47Z",
+            "last_commit": "2026-10-18T08:41:07Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "gladwell-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "modern-thought",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
         {
           "node_type": "item",
           "title": "纳瓦尔",
-          "description": "财富/杠杆/人生哲学",
+          "description": "财富/杠杆/人生哲学（社区）",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3531,7 +4795,7 @@
         {
           "node_type": "item",
           "title": "塔勒布",
-          "description": "风险/反脆弱/不确定性",
+          "description": "风险/反脆弱/不确定性（社区）",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3544,7 +4808,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "taleb-skill",
-            "stars": 128,
+            "stars": 129,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3556,17 +4820,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "查理·罗斯.skill — 深度访谈/提问的艺术/倾听的思维操作系统",
             "homepage": null,
             "id": 1207945876,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-07-25T01:06:50Z",
+            "last_commit": "2026-10-18T08:40:55Z",
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "charlierose-skill",
             "stars": 0,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "llm",
+              "modern-thought",
+              "nuwa",
+              "persona",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -3575,19 +4847,19 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:42:16.642Z",
+    "last_updated": "2026-10-18T21:48:40.246Z",
     "original_repository_info": {
       "archived": false,
-      "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Claude Code",
+      "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
       "homepage": null,
       "id": 1207908536,
       "language": "Ruby",
-      "license": null,
-      "last_commit": "2026-07-25T01:41:26Z",
+      "license": "MIT",
+      "last_commit": "2026-10-18T01:20:29Z",
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 414,
+      "stars": 418,
       "topics": [
         "agent-skills",
         "awesome-list",
@@ -3597,7 +4869,7 @@
         "human-distillation"
       ]
     },
-    "original_repository_sha": "1bc395977d5c04427229d0dc58a4abd74aaa21e7",
+    "original_repository_sha": "ffa49b1f169c830b210d0ecaf773c7e3f75c79f0",
     "enhanced_repository": "enhansome/enhansome-nuwa",
     "enhanced_repository_description": null,
     "title": "Awesome 女娲.skill with stars"
