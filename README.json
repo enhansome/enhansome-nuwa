@@ -2572,7 +2572,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "thiel-skill",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2773,7 +2773,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2794,7 +2794,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 547,
+            "stars": 550,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4197,7 +4197,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montessori-skill",
-            "stars": 70,
+            "stars": 72,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -4284,7 +4284,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10556,
+            "stars": 10560,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4847,7 +4847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:36:23.955Z",
+    "last_updated": "2026-10-21T22:41:45.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4859,7 +4859,7 @@
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 428,
+      "stars": 429,
       "topics": [
         "agent-skills",
         "awesome-list",
