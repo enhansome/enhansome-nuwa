@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2627,10 +2627,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:54:05Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 385,
+            "stars": 386,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2770,10 +2770,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:55:17Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 968,
+            "stars": 969,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2791,10 +2791,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:50:51Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 551,
+            "stars": 552,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4197,7 +4197,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "montessori-skill",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -4284,7 +4284,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10576,
+            "stars": 10585,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4784,7 +4784,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-13T06:54:17Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "naval-skill",
             "stars": 263,
@@ -4847,7 +4847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:43:05.291Z",
+    "last_updated": "2026-10-23T22:35:38.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4859,7 +4859,7 @@
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 434,
+      "stars": 435,
       "topics": [
         "agent-skills",
         "awesome-list",
