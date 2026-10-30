@@ -2773,7 +2773,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 971,
+            "stars": 972,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4284,7 +4284,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10647,
+            "stars": 10658,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4847,7 +4847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:33:04.365Z",
+    "last_updated": "2026-10-30T23:10:08.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4859,7 +4859,7 @@
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 462,
+      "stars": 466,
       "topics": [
         "agent-skills",
         "awesome-list",
