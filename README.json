@@ -164,7 +164,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "zengguofan-skill",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -2630,7 +2630,7 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "munger-skill",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -2773,7 +2773,7 @@
             "open_issues": 5,
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
-            "stars": 972,
+            "stars": 973,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -3117,7 +3117,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "murakami-skill",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -4284,7 +4284,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10686,
+            "stars": 10696,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4808,7 +4808,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "taleb-skill",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
@@ -4847,7 +4847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:45:17.409Z",
+    "last_updated": "2026-11-04T00:11:05.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4859,7 +4859,7 @@
       "open_issues": 2,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 478,
+      "stars": 479,
       "topics": [
         "agent-skills",
         "awesome-list",
