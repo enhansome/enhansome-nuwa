@@ -2631,7 +2631,27 @@
             "owner": "alchaincyf",
             "repo": "munger-skill",
             "stars": 393,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "charlie-munger",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "investing",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -2774,7 +2794,27 @@
             "owner": "alchaincyf",
             "repo": "steve-jobs-skill",
             "stars": 973,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "product-design",
+              "prompt-engineering",
+              "skills",
+              "steve-jobs"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -2794,8 +2834,28 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 563,
-            "topics": []
+            "stars": 564,
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "elon-musk",
+              "first-principles",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -4284,8 +4344,29 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10709,
-            "topics": []
+            "stars": 10719,
+            "topics": [
+              "agent-skills",
+              "career-planning",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "education",
+              "gaokao",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         }
@@ -4787,8 +4868,28 @@
             "open_issues": 4,
             "owner": "alchaincyf",
             "repo": "naval-skill",
-            "stars": 268,
-            "topics": []
+            "stars": 269,
+            "topics": [
+              "agent-skills",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "naval",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills",
+              "startup"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -4809,7 +4910,27 @@
             "owner": "alchaincyf",
             "repo": "taleb-skill",
             "stars": 131,
-            "topics": []
+            "topics": [
+              "agent-skills",
+              "antifragile",
+              "claude-code",
+              "claude-code-skills",
+              "claude-skills",
+              "codex",
+              "cursor",
+              "decision-making",
+              "gemini-cli",
+              "hermes-agent",
+              "huashu-skills",
+              "mental-models",
+              "nassim-taleb",
+              "nuwa-skill",
+              "openclaw",
+              "opencode",
+              "persona",
+              "prompt-engineering",
+              "skills"
+            ]
           },
           "first_seen": "2026-08-29T02:25:39.871Z"
         },
@@ -4847,7 +4968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:47:39.722Z",
+    "last_updated": "2026-11-07T22:57:28.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4856,10 +4977,10 @@
       "language": "Ruby",
       "license": "MIT",
       "last_commit": "2026-10-18T01:20:29Z",
-      "open_issues": 2,
+      "open_issues": 4,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 483,
+      "stars": 484,
       "topics": [
         "agent-skills",
         "awesome-list",
