@@ -2834,7 +2834,7 @@
             "open_issues": 2,
             "owner": "alchaincyf",
             "repo": "elon-musk-skill",
-            "stars": 564,
+            "stars": 566,
             "topics": [
               "agent-skills",
               "claude-code",
@@ -4344,7 +4344,7 @@
             "open_issues": 25,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10719,
+            "stars": 10724,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -4968,7 +4968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:57:28.213Z",
+    "last_updated": "2026-11-08T23:06:00.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4980,7 +4980,7 @@
       "open_issues": 4,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 484,
+      "stars": 485,
       "topics": [
         "agent-skills",
         "awesome-list",
