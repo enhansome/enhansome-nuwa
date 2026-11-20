@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "nuwa-skills",
             "repo": "wangyangming-skill",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -4344,7 +4344,7 @@
             "open_issues": 1,
             "owner": "alchaincyf",
             "repo": "zhangxuefeng-skill",
-            "stars": 10800,
+            "stars": 10799,
             "topics": [
               "agent-skills",
               "career-planning",
@@ -4968,7 +4968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:26:49.523Z",
+    "last_updated": "2026-11-20T01:25:33.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of 女娲.skill — 用女娲蒸馏的人物思维框架合集 | Distilled human thinking frameworks for Agent Skills",
@@ -4980,7 +4980,7 @@
       "open_issues": 4,
       "owner": "nuwa-skills",
       "repo": "awesome-nuwa",
-      "stars": 503,
+      "stars": 505,
       "topics": [
         "agent-skills",
         "awesome-list",
