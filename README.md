@@ -8,7 +8,7 @@
 [![Skills](https://img.shields.io/badge/Skills-159-blue)](#目录)
 [![Categories](https://img.shields.io/badge/Categories-18-green)](#目录)
 [![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill) ⭐ 38,649 | 🐛 1 | 🌐 Python | 📅 2026-11-17
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill) ⭐ 38,703 | 🐛 1 | 🌐 Python | 📅 2026-11-17
 
 每个 Skill 都是一个可安装的思维操作系统，不是语录合集。<br>
 安装后可在支持 Agent Skills 的 AI 助手中，以该人物的视角分析问题、审视决策、提供反馈。
@@ -212,7 +212,7 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | 人物                                                                                     | 领域              | 安装                                             |
 | -------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------- |
 | [海明威](https://github.com/nuwa-skills/hemingway-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-18     | 简洁/冰山理论/勇气      | `npx skills add nuwa-skills/hemingway-skill`   |
-| [村上春树](https://github.com/nuwa-skills/murakami-skill) ⭐ 1 \| 🐛 0 \| 📅 2026-10-18     | 纪律/长跑/孤独创作      | `npx skills add nuwa-skills/murakami-skill`    |
+| [村上春树](https://github.com/nuwa-skills/murakami-skill) ⭐ 2 \| 🐛 0 \| 📅 2026-10-18     | 纪律/长跑/孤独创作      | `npx skills add nuwa-skills/murakami-skill`    |
 | [奥威尔](https://github.com/nuwa-skills/orwell-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-18        | 政治写作/清晰/真相      | `npx skills add nuwa-skills/orwell-skill`      |
 | [托尔斯泰](https://github.com/nuwa-skills/tolstoy-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-18      | 人性/道德/史诗叙事      | `npx skills add nuwa-skills/tolstoy-skill`     |
 | [斯蒂芬·金](https://github.com/nuwa-skills/stephenking-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-18 | 写作/纪律/恐惧        | `npx skills add nuwa-skills/stephenking-skill` |
@@ -281,7 +281,7 @@ ruby scripts/modernize-skills.rb --write  # 应用低风险规范升级
 | [蒙特梭利](https://github.com/nuwa-skills/montessori-skill) ⭐ 81 \| 🐛 0 \| 📅 2026-10-18     | 儿童教育/自主学习/环境设计   | `npx skills add nuwa-skills/montessori-skill`  |
 | [杜威](https://github.com/nuwa-skills/dewey-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-18             | 实用主义教育/做中学/民主    | `npx skills add nuwa-skills/dewey-skill`       |
 | [陶行知](https://github.com/nuwa-skills/taoxingzhi-skill) ⭐ 0 \| 🐛 0 \| 📅 2026-10-18       | 生活教育/教学做合一/乡村    | `npx skills add nuwa-skills/taoxingzhi-skill`  |
-| [张雪峰](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,799 \| 🐛 1 \| 📅 2026-10-13 | 教育/职业规划/阶层流动（社区） | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| [张雪峰](https://github.com/alchaincyf/zhangxuefeng-skill) ⭐ 10,801 \| 🐛 1 \| 📅 2026-10-13 | 教育/职业规划/阶层流动（社区） | `npx skills add alchaincyf/zhangxuefeng-skill` |
 
 ## 经济学家
 
@@ -339,10 +339,10 @@ npx skills add alchaincyf/nuwa-skill
 
 MIT License
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 38,649 | 🐛 1 | 🌐 Python | 📅 2026-11-17
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) ⭐ 38,703 | 🐛 1 | 🌐 Python | 📅 2026-11-17
 
 </div>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
